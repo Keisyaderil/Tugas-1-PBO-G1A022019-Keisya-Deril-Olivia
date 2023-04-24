@@ -26,6 +26,7 @@
      > - Form1:Window (Object Form1 mempunyai class Window)
      > 
   Setiap object pasti memiliki class (sebagai templatenya). Setiap object harus diinstansiasi/dihidupkan terlebih dahulu sebelum digunakan. Instansiasi sebuah objek dapat dilakukan dengan keyword new. 
+  > 
      > Contoh:
      > - NamaClass NamaObject;
      > - NamaObject=new NamaClass(parameter_konstruktornya);
