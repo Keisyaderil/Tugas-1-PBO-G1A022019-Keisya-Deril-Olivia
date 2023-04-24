@@ -23,5 +23,17 @@
      Contoh:
      - NamaClass NamaObject;
      - NamaObject=new NamaClass(parameter_konstruktornya);
+# Pengimplementasian lainnya dari OOP:
+1. Aplikasi Mobile
+> Aplikasi mobile seperti Instagram, Facebook, dan Twitter dibangun menggunakan OOP. Setiap aplikasi mobile memiliki objek-objek yang terdiri dari kelas-kelas dan instance dari kelas-kelas tersebut. Misalnya, dalam Instagram, setiap pengguna memiliki profil dengan atribut seperti nama, foto profil, dan jumlah pengikut, dan fungsi seperti membuat postingan dan mengirim pesan.
+
+2. Game
+> Game adalah aplikasi yang kompleks dan membutuhkan penggunaan OOP yang kuat. Dalam game, terdapat banyak objek seperti karakter, senjata, dan lingkungan. Setiap objek ini memiliki atribut dan fungsi yang unik. Misalnya, dalam game RPG (Role-Playing Game), setiap karakter memiliki atribut seperti level, status kesehatan, dan senjata, dan fungsi seperti bergerak, menyerang, dan berbicara.
+
+3. Internet of Things (IoT)
+> Internet of Things (IoT) adalah jaringan objek fisik yang terhubung dengan internet. Objek-objek ini biasanya diperlakukan sebagai objek OOP. Misalnya, dalam sistem smart home, setiap perangkat seperti lampu, AC, dan pintu memiliki atribut seperti status on/off dan suhu, dan fungsi seperti menghidupkan/mematikan dan mengatur suhu.
+
+4. Framework Web
+> Framework web seperti Ruby on Rails, Django, dan Laravel juga dibangun menggunakan OOP. Framework web ini membantu para pengembang membuat aplikasi web yang lebih cepat dan efisien dengan menyediakan berbagai kelas dan fungsi yang dapat digunakan. Misalnya, dalam Django, terdapat kelas-kelas seperti Model, View, dan Template yang membantu para pengembang untuk memisahkan logika bisnis, tampilan, dan data dalam aplikasi web mereka.
 
      
