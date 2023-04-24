@@ -20,8 +20,7 @@
 > Abstraction atau abstraksi merupakan prinsip OOP lainnya yang memungkinkan pengembang memerintahkan suatu fungsi tanpa perlu mengetahui kinerja dari fungsi tersebut. Dengan kata lain, abstraksi bisa disebut sebagai penyembunyian latar belakang secara rinci dan hanya menampilkan informasi yang diperlukan saja. Analogi sederhananya yaitu ketika menggunakan smartphone, pengguna cukup memberikan sebuah perintah tanpa harus mengetahui proses kerjanya.
   5) Class. 
 > Class adalah cetak biru/prototipe/pendefinisian dari suatu benda. Didalam class-lah attribut dan method suatu object didefinisikan. Contoh : Manusia, Window
-  6) Object. Object adalah bentuk instance/nyata/real/hidup dari sebuah class. 
-     > Contoh :
+  6) Object. Object adalah bentuk instance/nyata/real/hidup dari sebuah class. Contoh :
      > - Shelly:Manusia (Object Shelly mempunyai Class Manusia)
      > - Form1:Window (Object Form1 mempunyai class Window)
      Setiap object pasti memiliki class (sebagai templatenya). Setiap object harus diinstansiasi/dihidupkan terlebih dahulu sebelum digunakan. Instansiasi sebuah objek dapat dilakukan dengan keyword new. 
