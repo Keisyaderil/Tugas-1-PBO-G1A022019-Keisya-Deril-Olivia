@@ -21,15 +21,13 @@
   5) Class. 
 > Class adalah cetak biru/prototipe/pendefinisian dari suatu benda. Didalam class-lah attribut dan method suatu object didefinisikan. Contoh : Manusia, Window
   6) Object. Object adalah bentuk instance/nyata/real/hidup dari sebuah class. 
-     > Contoh :
-     > - Shelly:Manusia (Object Shelly mempunyai Class Manusia)
-     > - Form1:Window (Object Form1 mempunyai class Window)
-     > 
-  Setiap object pasti memiliki class (sebagai templatenya). Setiap object harus diinstansiasi/dihidupkan terlebih dahulu sebelum digunakan. Instansiasi sebuah objek dapat dilakukan dengan keyword new. 
-  > 
-     > Contoh:
-     > - NamaClass NamaObject;
-     > - NamaObject=new NamaClass(parameter_konstruktornya);
+> Contoh :
+> - Shelly:Manusia (Object Shelly mempunyai Class Manusia)
+> - Form1:Window (Object Form1 mempunyai class Window)
+  Setiap object pasti memiliki class (sebagai templatenya). Setiap object harus diinstansiasi/dihidupkan terlebih dahulu sebelum digunakan. Instansiasi sebuah objek dapat dilakukan dengan keyword new.  
+> Contoh:
+> - NamaClass NamaObject;
+> - NamaObject=new NamaClass(parameter_konstruktornya);
 # Pengimplementasian lainnya dari OOP:
 1. Aplikasi Mobile
 > Aplikasi mobile seperti Instagram, Facebook, dan Twitter dibangun menggunakan OOP. Setiap aplikasi mobile memiliki objek-objek yang terdiri dari kelas-kelas dan instance dari kelas-kelas tersebut. Misalnya, dalam Instagram, setiap pengguna memiliki profil dengan atribut seperti nama, foto profil, dan jumlah pengikut, dan fungsi seperti membuat postingan dan mengirim pesan.
